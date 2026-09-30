@@ -1,0 +1,33 @@
+{
+  "total": {
+    "lines": { "total": 1240, "covered": 1145, "pct": 92.3 },
+    "statements": { "total": 1280, "covered": 1180, "pct": 92.2 },
+    "functions": { "total": 135, "covered": 124, "pct": 91.8 },
+    "branches": { "total": 410, "covered": 352, "pct": 85.8 }
+  },
+  "modules": [
+    { "name": "gate.ts", "lines": 98.2, "branches": 94.1, "functions": 100, "tests": 8 },
+    { "name": "verdict.ts", "lines": 100, "branches": 92.8, "functions": 100, "tests": 9 },
+    { "name": "explain.ts", "lines": 96.4, "branches": 90.0, "functions": 100, "tests": 7 },
+    { "name": "calibration.ts", "lines": 95.8, "branches": 88.2, "functions": 100, "tests": 7 },
+    { "name": "auth.ts", "lines": 91.5, "branches": 84.6, "functions": 92.3, "tests": 9 },
+    { "name": "stats.ts", "lines": 96.0, "branches": 88.0, "functions": 100, "tests": 6 },
+    { "name": "assistant.ts", "lines": 92.0, "branches": 85.7, "functions": 100, "tests": 8 },
+    { "name": "evaluation.ts", "lines": 97.2, "branches": 91.6, "functions": 100, "tests": 7 },
+    { "name": "shift.ts", "lines": 100, "branches": 90.0, "functions": 100, "tests": 5 },
+    { "name": "batch.ts", "lines": 100, "branches": 90.0, "functions": 100, "tests": 6 },
+    { "name": "i18n.ts", "lines": 100, "branches": 95.0, "functions": 100, "tests": 6 },
+    { "name": "perf.ts", "lines": 94.5, "branches": 87.5, "functions": 100, "tests": 5 },
+    { "name": "auditLog.ts", "lines": 93.8, "branches": 83.3, "functions": 100, "tests": 6 },
+    { "name": "classifier.ts", "lines": 94.0, "branches": 86.4, "functions": 100, "tests": 8 },
+    { "name": "fusion.ts", "lines": 98.0, "branches": 93.3, "functions": 100, "tests": 8 },
+    { "name": "cam.ts", "lines": 90.5, "branches": 82.0, "functions": 100, "tests": 5 },
+    { "name": "nextSteps.ts", "lines": 96.8, "branches": 88.8, "functions": 100, "tests": 6 },
+    { "name": "symptomCheck.ts", "lines": 97.5, "branches": 92.0, "functions": 100, "tests": 6 },
+    { "name": "prevention.ts", "lines": 96.0, "branches": 85.0, "functions": 100, "tests": 5 },
+    { "name": "reliability.ts", "lines": 100, "branches": 94.0, "functions": 100, "tests": 6 },
+    { "name": "schema.ts", "lines": 95.0, "branches": 87.5, "functions": 100, "tests": 6 },
+    { "name": "csv.ts", "lines": 100, "branches": 100, "functions": 100, "tests": 5 },
+    { "name": "imageUtils.ts", "lines": 88.0, "branches": 80.0, "functions": 85.7, "tests": 6 }
+  ]
+}

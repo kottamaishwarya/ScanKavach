@@ -1,0 +1,6 @@
+{
+  "name": "ScanKavach",
+  "description": "ScanKavach: Label-Free Anomaly Screening and Decision Support for Medical Images. Your shield for safer medical image screening.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
